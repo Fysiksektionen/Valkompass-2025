@@ -366,10 +366,10 @@ prelim_categories = [
         "src": "#",
         "id": 10,
         "subcategories": [{
-            "name": "Ordförande",
+            "name": "Generalsekreterare",
             "desc": "Generalsekreteraren är ordförande för näringslivsnämnden FN och leder deras allmänna arbete genom att bl.a. hålla möten, rekrytera underansvariga och ansvarar för annan operativ verksamhet.",
             "src": "fn-ordforande",
-            "amount": 1,
+            "amount": 2,
             "questions": []
         },
             {
